@@ -1,2 +1,4 @@
 # GithubDemo
-This Demo project to learn Git Github
+This is a Demo project to learn Git Github
+<br>
+auhor zakariya
